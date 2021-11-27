@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cuoi Ia</string>
+    <string name="nav_open_drawer">open</string>
+    <string name="nav_close_drawer">close</string>
+    <string name="con_trai">Con trai</string>
+    <string name="truyen_cuoi">TRUYỆN CƯỜI 24/7</string>
+    <string name="update">Cập nhật từng phút từng giây</string>
+    <string name="ban_quyen">Bản quyền thuộc về tác giả</string>
+</resources>
